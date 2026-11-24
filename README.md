@@ -2,6 +2,8 @@
 
 أداة صغيرة بتضيف لوبي أونلاين (Firebase) لموقع الشطرنج. A small tool that adds an online Firebase lobby to the Chess site.
 
+**Live tool:** https://faresdief.github.io/Apply-lobby/
+
 ## إزاي بتشتغل | How it works
 
 1. افتح الصفحة واختار ملف `index.html` الحالي بتاع موقع الشطرنج. Open the page and pick the Chess site's current `index.html`.
